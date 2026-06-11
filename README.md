@@ -113,23 +113,103 @@ A console-based application that calculates the total marks, percentage, and gra
 
 ---
 
-## ⏳ Task 3: Coming Soon...
+## 🏧 Task 3: ATM Interface (Mini Banking System)
 
-The third project assigned during the internship is currently under development and will be added soon.
+### 📖 Description
+
+A console-based ATM simulation that allows users to create multiple bank accounts, securely log in using their account credentials, and perform various banking operations. To enhance the functionality, file handling was implemented to preserve account data even after the application is closed.
+
+### ✨ Features
+
+* 👤 Create Multiple Bank Accounts
+* 🏦 Automatically Generates Unique 6-Digit Account Numbers
+* 🔐 Secure Login using 4-Digit PIN
+* 💰 Opening Balance Setup During Account Creation
+* 📊 Check Current Account Balance
+* 💵 Deposit Money
+* 💸 Withdraw Money with Insufficient Balance Validation
+* 🔓 Logout Functionality
+* 🚪 Exit System Safely
+* 💾 Persistent Data Storage using `accounts.txt`
+* 🔄 Automatically Loads Existing Accounts on Restart
+
+### 🛠 Technologies Used
+
+* Java
+* IntelliJ IDEA
+* Scanner Class
+* ArrayList
+* Random Class
+* File Handling (`BufferedReader`, `BufferedWriter`)
+* OOP Concepts
+
+### 📚 Concepts Learned
+
+* Classes and Objects
+* Encapsulation
+* Constructors
+* ArrayList Collections
+* Authentication Logic
+* File Handling
+* Exception Handling
+* Menu-Driven Programming
+* Data Persistence
+
+### 📷 Output
+
+<p align="center">
+  <img src="images/TASK-3 (1).png" width="300">
+  <img src="images/TASK-3 (4).png" width="240">
+  <img src="images/TASK-3 (3).png" width="300">
+  <img src="images/TASK-3 (2).png" width="240">
+</p>
+
+<br>
+
+<h4 align="center"> Account Data Storage</h4>
+
+<p align="center">
+  <img src="images/TASK-3 STORED-DATA.png" width="500">
+</p>
+
+### 🔍 Sample Workflow
+
+```text
+Create Account
+       ↓
+Enter Name, 4-Digit PIN and Opening Balance
+       ↓
+Unique 6-Digit Account Number Generated
+       ↓
+Account Saved to accounts.txt
+       ↓
+Login Using Account Number + PIN
+       ↓
+Check Balance / Deposit / Withdraw
+       ↓
+Logout
+       ↓
+Restart Application
+       ↓
+Previously Created Accounts Are Automatically Loaded
+```
 
 ---
+
 
 # 💻 Tools & Technologies
 
 <div align="center">
 
-| Technology       | Purpose                  |
-| ---------------- | ------------------------ |
-| ☕ Java           | Programming Language     |
-| 💡 IntelliJ IDEA | IDE                      |
-| ⌨️ Scanner       | User Input               |
-| 🎲 Random        | Random Number Generation |
-| 🧠 OOP Concepts  | Code Organization        |
+| Technology            | Purpose                          |
+| --------------------- | -------------------------------- |
+| ☕ Java               | Programming Language             |
+| 💡 IntelliJ IDEA      | IDE                              |
+| ⌨️ Scanner            | User Input                       |
+| 🎲 Random             | Random Number Generation         |
+| 📂 ArrayList          | Dynamic Account Storage          |
+| 💾 File Handling      | Persistent Data Storage          |
+| 🧠 OOP Concepts       | Code Organization                |
 
 </div>
 
@@ -137,7 +217,19 @@ The third project assigned during the internship is currently under development 
 
 # 🌱 Learning Outcome
 
-This internship provided valuable experience in building real-world console applications using Java. It helped strengthen my understanding of Java fundamentals and improved my problem-solving skills through practical implementation.
+This internship provided valuable hands-on experience in building console-based Java applications and strengthened my understanding of core programming concepts.
+
+Through these projects, I improved my skills in:
+
+* Designing menu-driven applications
+* Applying Object-Oriented Programming principles
+* Managing user input and validations
+* Implementing authentication mechanisms
+* Working with collections such as ArrayList
+* Persisting application data using file handling
+* Developing structured and maintainable Java programs
+
+These projects enhanced both my problem-solving abilities and confidence in developing practical Java applications.
 
 ---
 
