@@ -1,14 +1,14 @@
-# ☕ CODSOFT Java Programming Internship
+#  CODSOFT Java Programming Internship
 
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=CODSOFT+Virtual+Internship;Java+Programming+Projects;Learning+Through+Building+Projects" alt="Typing SVG" />
 
-### 🚀 Virtual Internship in Java Programming
+###  Virtual Internship in Java Programming
 
-📅 **Duration:** 25 May 2026 – 25 June 2026
-🎓 **Batch:** MAY BATCH C2
-🆔 **Intern ID:** BY25RY294529
+**Duration:** 25 May 2026 – 25 June 2026
+<br> **Batch:** MAY BATCH C2
+ <br>  **Intern ID:** BY25RY294529
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 📌 About the Internship
+##  About the Internship
 
 This repository contains the projects completed during my **CODSOFT Virtual Internship in Java Programming**. The internship focused on strengthening core Java concepts through practical tasks and problem-solving.
 
@@ -33,34 +33,34 @@ Throughout this internship, I explored topics such as:
 
 ---
 
-# 📂 Completed Tasks
+#  Completed Tasks
 
 ## 🎯 Task 1: Number Guessing Game
 
-### 📖 Description
+###  Description
 
 A fun console-based game where the program generates a random number, and the user attempts to guess it.
 
-### ✨ Features
+###  Features
 
-* 🎲 Random number generation between 1–100
-* ⌨️ User input using Scanner
-* 📈 Feedback for guesses:
+*  Random number generation between 1–100
+*  User input using Scanner
+*  Feedback for guesses:
 
   * Too High
   * Too Low
   * Correct Guess
-* 🔄 Multiple attempts
-* 📊 Displays total attempts taken
+*  Multiple attempts
+*  Displays total attempts taken
 
-### 🛠 Technologies Used
+###  Technologies Used
 
 * Java
 * IntelliJ IDEA
 * Scanner Class
 * Random Class
 
-### 📚 Concepts Learned
+###  Concepts Learned
 
 * Classes and Objects
 * Loops
@@ -68,7 +68,7 @@ A fun console-based game where the program generates a random number, and the us
 * Methods
 * Random Number Generation
 
-### 📷 Output
+###  Output
 
 <p align="center">
   <img src="images/TASK-1 (1).png" width="300">
@@ -80,17 +80,17 @@ A fun console-based game where the program generates a random number, and the us
 
 ## 📊 Task 2: Student Grade Calculator
 
-### 📖 Description
+###  Description
 
 A console-based application that calculates the total marks, percentage, and grade of a student based on marks entered by the user.
 
-### ✨ Features
+###  Features
 
-* 📝 Accepts marks for multiple subjects
-* ➕ Calculates total marks
-* 📈 Computes percentage
-* 🏅 Assigns grades based on performance
-* 📋 Displays complete result summary
+*  Accepts marks for multiple subjects
+*  Calculates total marks
+*  Computes percentage
+*  Assigns grades based on performance
+*  Displays complete result summary
 
 ### 🛠 Technologies Used
 
@@ -98,14 +98,14 @@ A console-based application that calculates the total marks, percentage, and gra
 * IntelliJ IDEA
 * Scanner Class
 
-### 📚 Concepts Learned
+###  Concepts Learned
 
 * User Input Handling
 * Arithmetic Operations
 * Decision Making
 * Grade Calculation Logic
 
-### 📷 Output
+###  Output
 
 <p align="center">
   <img src="images/TASK-2.png" width="300">
@@ -115,11 +115,11 @@ A console-based application that calculates the total marks, percentage, and gra
 
 ## 🏧 Task 3: ATM Interface (Mini Banking System)
 
-### 📖 Description
+###  Description
 
 A console-based ATM simulation that allows users to create multiple bank accounts, securely log in using their account credentials, and perform various banking operations. To enhance the functionality, file handling was implemented to preserve account data even after the application is closed.
 
-### ✨ Features
+###  Features
 
 * 👤 Create Multiple Bank Accounts
 * 🏦 Automatically Generates Unique 6-Digit Account Numbers
@@ -133,7 +133,7 @@ A console-based ATM simulation that allows users to create multiple bank account
 * 💾 Persistent Data Storage using `accounts.txt`
 * 🔄 Automatically Loads Existing Accounts on Restart
 
-### 🛠 Technologies Used
+###  Technologies Used
 
 * Java
 * IntelliJ IDEA
@@ -143,7 +143,7 @@ A console-based ATM simulation that allows users to create multiple bank account
 * File Handling (`BufferedReader`, `BufferedWriter`)
 * OOP Concepts
 
-### 📚 Concepts Learned
+###  Concepts Learned
 
 * Classes and Objects
 * Encapsulation
@@ -155,7 +155,7 @@ A console-based ATM simulation that allows users to create multiple bank account
 * Menu-Driven Programming
 * Data Persistence
 
-### 📷 Output
+###  Output
 
 <p align="center">
   <img src="images/TASK-3 (1).png" width="300">
@@ -172,7 +172,7 @@ A console-based ATM simulation that allows users to create multiple bank account
   <img src="images/TASK-3 STORED-DATA.png" width="500">
 </p>
 
-### 🔍 Sample Workflow
+###  Sample Workflow
 
 ```text
 Create Account
@@ -197,19 +197,19 @@ Previously Created Accounts Are Automatically Loaded
 ---
 
 
-# 💻 Tools & Technologies
+#  Tools & Technologies
 
 <div align="center">
 
 | Technology            | Purpose                          |
 | --------------------- | -------------------------------- |
-| ☕ Java               | Programming Language             |
-| 💡 IntelliJ IDEA      | IDE                              |
-| ⌨️ Scanner            | User Input                       |
-| 🎲 Random             | Random Number Generation         |
-| 📂 ArrayList          | Dynamic Account Storage          |
-| 💾 File Handling      | Persistent Data Storage          |
-| 🧠 OOP Concepts       | Code Organization                |
+|  Java               | Programming Language             |
+|  IntelliJ IDEA      | IDE                              |
+|  Scanner            | User Input                       |
+|  Random             | Random Number Generation         |
+|  ArrayList          | Dynamic Account Storage          |
+|  File Handling      | Persistent Data Storage          |
+|  OOP Concepts       | Code Organization                |
 
 </div>
 
