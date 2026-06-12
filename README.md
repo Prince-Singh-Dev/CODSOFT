@@ -1,20 +1,22 @@
-#  CODSOFT Java Programming Internship
-
 <div align="center">
+
+# CODSOFT Java Programming Internship
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=CODSOFT+Virtual+Internship;Java+Programming+Projects;Learning+Through+Building+Projects" alt="Typing SVG" />
 
-###  Virtual Internship in Java Programming
+### Virtual Internship in Java Programming
 
-**Duration:** 25 May 2026 – 25 June 2026
-<br> **Batch:** MAY BATCH C2
- <br>  **Intern ID:** BY25RY294529
+**Duration:** 25 May 2026 – 25 June 2026  
+**Batch:** MAY BATCH C2  
+**Intern ID:** BY25RY294529
 
 ---
 
 *"Transforming concepts into code through hands-on Java projects."*
 
 </div>
+
+---
 
 ---
 
