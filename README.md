@@ -239,10 +239,19 @@ A console-based Student Management System developed using Java to manage student
 ### Output
 
 <p align="center">
-  <img src="images/TASK-4 (1).png" width="300">
-  <img src="images/TASK-4 (2).png" width="300">
-  <img src="images/TASK-4 (3).png" width="300">
-  <img src="images/TASK-4 (3).png" width="300">
+  <img src="images/Task-4 (2).png" width="300">
+  <img src="images/Task-4 (6).png" width="285">
+  <img src="images/Task-4 (10).png" width="242">
+  <br><br>
+
+  <img src="images/Task-4 (5).png" width="330">
+  <img src="images/Task-4 (3).png" width="280">
+  <img src="images/Task-4 (7).png" width="270">
+  <br><br>
+
+  <img src="images/Task-4 (8).png" width="370">
+  <img src="images/Task-4 (9).png" width="240">
+  <img src="images/Task-4 (4).png" width="300">
 </p>
 
 <br>
@@ -250,7 +259,7 @@ A console-based Student Management System developed using Java to manage student
 <h4 align="center">Student Data Storage</h4>
 
 <p align="center">
-  <img src="images/TASK-5 STORED-DATA.png" width="500">
+  <img src="images/Task-4 (1).png" width="500">
 </p>
 
 ### Sample Workflow
