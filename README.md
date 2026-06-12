@@ -196,20 +196,101 @@ Previously Created Accounts Are Automatically Loaded
 
 ---
 
+## 🧑‍🎓 Task 4: Student Management System
+
+### Description
+
+A console-based Student Management System developed using Java to manage student records efficiently. The application allows users to perform CRUD (Create, Read, Update, Delete) operations on student data through a menu-driven interface. File handling was implemented to ensure that student records persist even after the application is closed.
+
+### Features
+
+* ➕ Add New Student Records
+* 📋 Display All Students
+* 🔍 Search Students Using Roll Number
+* ✏️ Update Existing Student Details
+* 🗑️ Remove Student Records
+* 💾 Save Student Data to `students.txt`
+* 🔄 Automatically Load Existing Records on Restart
+* 🚪 Exit Application Safely
+* 📌 Console-Based Menu Interface
+
+### Technologies Used
+
+* Java
+* IntelliJ IDEA
+* Scanner Class
+* ArrayList
+* File Handling (`BufferedReader`, `BufferedWriter`)
+* OOP Concepts
+* Exception Handling
+
+### Concepts Learned
+
+* Classes and Objects
+* Encapsulation
+* Constructors
+* ArrayList Collections
+* CRUD Operations
+* File Handling
+* Exception Handling
+* Menu-Driven Programming
+* Data Persistence
+
+### Output
+
+<p align="center">
+  <img src="images/TASK-4 (1).png" width="300">
+  <img src="images/TASK-4 (2).png" width="300">
+  <img src="images/TASK-4 (3).png" width="300">
+  <img src="images/TASK-4 (3).png" width="300">
+</p>
+
+<br>
+
+<h4 align="center">Student Data Storage</h4>
+
+<p align="center">
+  <img src="images/TASK-5 STORED-DATA.png" width="500">
+</p>
+
+### Sample Workflow
+
+```text
+Start Application
+       ↓
+Load Existing Student Records
+       ↓
+Display Main Menu
+       ↓
+Add / Search / Update / Remove Students
+       ↓
+Display Student Records
+       ↓
+Save Records to students.txt
+       ↓
+Exit Application
+       ↓
+Restart Application
+       ↓
+Previously Saved Student Data Is Automatically Loaded
+```
+---
 
 #  Tools & Technologies
 
 <div align="center">
 
-| Technology            | Purpose                          |
-| --------------------- | -------------------------------- |
-|  Java               | Programming Language             |
-|  IntelliJ IDEA      | IDE                              |
-|  Scanner            | User Input                       |
-|  Random             | Random Number Generation         |
-|  ArrayList          | Dynamic Account Storage          |
-|  File Handling      | Persistent Data Storage          |
-|  OOP Concepts       | Code Organization                |
+| Technology            | Purpose                  |
+| --------------------- | ------------------------ |
+| ☕ Java               | Programming Language     |
+| 💻 IntelliJ IDEA      | IDE                      |
+| 📝 Scanner            | User Input               |
+| 🎲 Random             | Random Number Generation |
+| 📚 ArrayList          | Dynamic Data Storage     |
+| 💾 File Handling      | Persistent Data Storage  |
+| ⚠️ Exception Handling | Error Management         |
+| 🏛️ OOP Concepts       | Code Organization        |
+
 
 </div>
 
